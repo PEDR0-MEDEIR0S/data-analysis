@@ -2,7 +2,7 @@
  English: This folder presents data analyses I performed, along with comments. It includes the scripts, tables used, comments, and analysis of the results.  
  Portuguese: Esta pasta apresenta análises de dados realizadas por mim, com comentários. Contém os scripts, tabelas utilizadas, comentários e análise dos resultados obtidos
  
-README - Utilização dos Scripts de Análise no Spyder (Anaconda)
+## Utilização dos Scripts de Análise no Spyder (Anaconda)
 Introdução
 Este repositório contém dois scripts Python que realizam análises estatísticas sobre um conjunto de dados de corrupção e outro sobre o estudo da relação entre a idade e o comprimento de bebês. Os scripts utilizam bibliotecas populares como pandas, numpy, matplotlib, seaborn, statsmodels e scipy. O objetivo dos scripts é realizar tarefas como carga de dados, análise exploratória, modelagem de regressão e visualização de resultados.
 
