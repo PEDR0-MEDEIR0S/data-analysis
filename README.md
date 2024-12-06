@@ -46,12 +46,19 @@ As saídas serão exibidas na Console do Spyder. Para visualizações gráficas,
 plaintext
 Copiar código
 └── seu_projeto/
+
     ├── bebes.csv             # Arquivo de dados de bebês
+    
     ├── corrupcao.csv         # Arquivo de dados sobre corrupção
+    
     ├── analise_corrupcao.py  # Script 1: Análise de Corrupção
+    
     ├── analise_bebes.py      # Script 2: Análise de Bebês
+    
     ├── EXEMPLO3.html         # Gráfico interativo gerado pelo Script 1
+    
     └── README.md             # Este arquivo
+    
 ## Considerações Finais
 Formato de Entrada: Certifique-se de que os arquivos CSV estejam corretamente formatados e no mesmo diretório ou ajuste os caminhos no código.
 Saídas: Os gráficos serão exibidos em janelas de visualização ou na interface do Spyder, e os resumos dos modelos serão mostrados na Console.
