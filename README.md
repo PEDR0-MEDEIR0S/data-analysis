@@ -42,25 +42,6 @@ Verificar as Saídas:
 
 As saídas serão exibidas na Console do Spyder. Para visualizações gráficas, os gráficos serão exibidos em uma janela separada ou diretamente na janela de gráficos do Spyder, dependendo das configurações.
 
-### Passos do Script:
-Instalação das Bibliotecas Necessárias.
-Carregamento do Dataset
-Análise Exploratória dos Dados:
-Visualização das primeiras linhas do dataset.
-Exibição de estatísticas descritivas.
-Visualização de Dados:
-Criação de gráficos de dispersão para entender a relação entre idade e comprimento.
-Modelagem de Regressão Linear:
-Estimação de um modelo de regressão linear simples para entender a relação entre as variáveis.
-Avaliação do Ajuste:
-Exibição de gráficos de dispersão com o ajuste linear.
-Teste de normalidade dos resíduos usando o teste de Shapiro-Wilk.
-Transformação Box-Cox:
-Aplicação da transformação de Box-Cox na variável comprimento caso os resíduos não sigam uma distribuição normal.
-Comparação de Modelos:
-Comparação do modelo linear e do modelo transformado com Box-Cox usando R² e visualizações gráficas.
-Arquivos Necessários:
-bebes.csv: Este arquivo CSV deve estar no mesmo diretório do script ou o caminho do arquivo deve ser especificado corretamente no código.
 ## Estrutura dos Diretórios
 plaintext
 Copiar código
