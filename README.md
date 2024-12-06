@@ -45,6 +45,7 @@ As saídas serão exibidas na Console do Spyder. Para visualizações gráficas,
 ## Estrutura dos Diretórios
 plaintext
 Copiar código
+
 └── seu_projeto/
 
     ├── bebes.csv             # Arquivo de dados de bebês
