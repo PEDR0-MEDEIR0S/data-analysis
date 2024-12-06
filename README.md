@@ -41,29 +41,7 @@ No Spyder, você pode executar os scripts linha por linha utilizando o botão Ru
 Verificar as Saídas:
 
 As saídas serão exibidas na Console do Spyder. Para visualizações gráficas, os gráficos serão exibidos em uma janela separada ou diretamente na janela de gráficos do Spyder, dependendo das configurações.
-## Descrição dos Scripts
-Script 1: Análise de Corrupção
-Este script realiza uma análise sobre um dataset contendo informações sobre o índice de percepção de corrupção de diversos países e suas regiões. O objetivo principal é demonstrar como a manipulação e modelagem de dados podem ser realizadas, utilizando regressão linear e variáveis dummies.
-
-Passos do Script:
-Instalação das bibliotecas necessárias.
-Carregamento do Dataset: O dataset é carregado de um arquivo CSV chamado corrupcao.csv.
-Análise Exploratória dos Dados:
-Visualização de estatísticas descritivas.
-Criação de uma tabela de frequências da variável regiao.
-Modelagem de Regressão:
-Estimação de um modelo de regressão linear com a variável regiao_numerico (cometendo um erro de ponderação arbitrária).
-Visualização dos resultados com gráficos de dispersão.
-Uso de variáveis dummies para modelar a variável regiao de forma correta e estimar um novo modelo.
-Visualização de Resultados:
-Geração de gráficos estáticos (matplotlib e seaborn).
-Geração de gráficos interativos com a biblioteca Plotly.
-Arquivos Necessários:
-corrupcao.csv: Este arquivo CSV deve estar no mesmo diretório do script ou o caminho do arquivo deve ser especificado corretamente no código.
-## Script 2: Análise de Dados de Bebês
-Este script realiza uma análise sobre o crescimento de bebês, utilizando um conjunto de dados sobre a idade (em semanas) e o comprimento (em cm). O objetivo é realizar uma regressão linear simples, verificar a normalidade dos resíduos e aplicar uma transformação de Box-Cox caso necessário.
-
-Passos do Script:
+### Passos do Script:
 Instalação das Bibliotecas Necessárias.
 Carregamento do Dataset: O dataset é carregado de um arquivo CSV chamado bebes.csv.
 Análise Exploratória dos Dados:
