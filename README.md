@@ -41,9 +41,10 @@ No Spyder, você pode executar os scripts linha por linha utilizando o botão Ru
 Verificar as Saídas:
 
 As saídas serão exibidas na Console do Spyder. Para visualizações gráficas, os gráficos serão exibidos em uma janela separada ou diretamente na janela de gráficos do Spyder, dependendo das configurações.
+
 ### Passos do Script:
 Instalação das Bibliotecas Necessárias.
-Carregamento do Dataset: O dataset é carregado de um arquivo CSV chamado bebes.csv.
+Carregamento do Dataset
 Análise Exploratória dos Dados:
 Visualização das primeiras linhas do dataset.
 Exibição de estatísticas descritivas.
