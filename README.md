@@ -1,3 +1,24 @@
+# Estrutura dos Diretórios
+plaintext
+Copiar código
+
+└── seu_projeto/
+
+    ├── bebes.csv                # Arquivo de dados de bebês
+    
+    ├── corrupcao.csv            # Arquivo de dados sobre corrupção
+    
+    ├── analise_corrupcao.py     # Script 1: Análise de Corrupção
+    
+    ├── analise_bebes.py         # Script 2: Análise de Bebês
+    
+    ├── EXEMPLO3.html            # Gráfico interativo gerado pelo Script 1
+
+    ├── titanic_RandomForest.py  # Script 3: Treina um modelo de Random Forest para prever sobreviventes do Titanic usando aprendizado de máquina, utilizando métricas como acurácia e matriz de confusão.
+
+    ├── titanic_HAR_lgbm.py      # Script 4: Utiliza o algoritmo LightGBM para treinar um modelo preditivo no conjunto de dados do Titanic, avalia o desempenho com métricas como precisão, recall e F1-score. 
+     
+    └── README.md                # Este arquivo
 # data-analysis
  English: This folder presents data analyses I performed, along with comments. It includes the scripts, tables used, comments, and analysis of the results.  
  Portuguese: Esta pasta apresenta análises de dados realizadas por mim, com comentários. Contém os scripts, tabelas utilizadas, comentários e análise dos resultados obtidos
@@ -41,24 +62,6 @@ No Spyder, você pode executar os scripts linha por linha utilizando o botão Ru
 Verificar as Saídas:
 
 As saídas serão exibidas na Console do Spyder. Para visualizações gráficas, os gráficos serão exibidos em uma janela separada ou diretamente na janela de gráficos do Spyder, dependendo das configurações.
-
-## Estrutura dos Diretórios
-plaintext
-Copiar código
-
-└── seu_projeto/
-
-    ├── bebes.csv             # Arquivo de dados de bebês
-    
-    ├── corrupcao.csv         # Arquivo de dados sobre corrupção
-    
-    ├── analise_corrupcao.py  # Script 1: Análise de Corrupção
-    
-    ├── analise_bebes.py      # Script 2: Análise de Bebês
-    
-    ├── EXEMPLO3.html         # Gráfico interativo gerado pelo Script 1
-    
-    └── README.md             # Este arquivo
     
 ## Considerações Finais
 Formato de Entrada: Certifique-se de que os arquivos CSV estejam corretamente formatados e no mesmo diretório ou ajuste os caminhos no código.
